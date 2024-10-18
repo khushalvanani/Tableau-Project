@@ -25,7 +25,7 @@ The dashboard created in this project explores relationships between various fac
 
 ## Tools Used
 - **Tableau**: Used for creating interactive dashboards and data visualization.
-- **Airbnb Dataset**: The dataset was downloaded from Kaggle. Due to its large size, the data is not uploaded in this repository. You can access the dataset from Kaggle [here](#).
+- **Airbnb Dataset**: The dataset was downloaded from Kaggle. Due to its large size, the data is not uploaded in this repository. You can access the dataset from Kaggle [here](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset).
 
 ## Visualizations
 The Tableau dashboard includes:
