@@ -37,7 +37,7 @@ The Tableau dashboard includes:
 ## How to Access the Tableau Dashboard
 The full Tableau dashboard can be accessed [here](https://public.tableau.com/app/profile/khushal.vanani/viz/AirbnbFullProject_17249641053050/Dashboard1) .
 
-## Dashboard Screenshot
+### Dashboard Screenshot
 ![Dashboard](images/Tableau_dashboard.png)
 
 ## Conclusion
